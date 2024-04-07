@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "RestServer.Controllers.CustomersController",
+    "Method": "AddCustomers",
+    "RelativePath": "customers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newCustomers",
+        "Type": "System.Collections.Generic.List\u00601[[RestServer.Controllers.CustomersController\u002BCustomer, RestServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RestServer.Controllers.CustomersController",
+    "Method": "GetCustomers",
+    "RelativePath": "customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

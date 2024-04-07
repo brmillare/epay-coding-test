@@ -1,0 +1,17 @@
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\bin\Debug\net8.0\PostSimulator.exe
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\bin\Debug\net8.0\PostSimulator.deps.json
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\bin\Debug\net8.0\PostSimulator.runtimeconfig.json
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\bin\Debug\net8.0\PostSimulator.dll
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\bin\Debug\net8.0\PostSimulator.pdb
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimulator.csproj.AssemblyReference.cache
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimulator.AssemblyInfoInputs.cache
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimulator.AssemblyInfo.cs
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimulator.csproj.CoreCompileInputs.cache
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimu.DE57F1A9.Up2Date
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimulator.dll
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\refint\PostSimulator.dll
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimulator.pdb
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\PostSimulator.genruntimeconfig.cache
+D:\Software\Coding\epay-coding-test\post-simulator\PostSimulator\obj\Debug\net8.0\ref\PostSimulator.dll

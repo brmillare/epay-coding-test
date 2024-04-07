@@ -1,0 +1,14 @@
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\DenominationPayout.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\DenominationPayout.AssemblyInfoInputs.cache
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\DenominationPayout.AssemblyInfo.cs
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\DenominationPayout.csproj.CoreCompileInputs.cache
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\bin\Debug\net8.0\DenominationPayout.exe
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\bin\Debug\net8.0\DenominationPayout.deps.json
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\bin\Debug\net8.0\DenominationPayout.runtimeconfig.json
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\bin\Debug\net8.0\DenominationPayout.dll
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\bin\Debug\net8.0\DenominationPayout.pdb
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\DenominationPayout.dll
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\refint\DenominationPayout.dll
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\DenominationPayout.pdb
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\DenominationPayout.genruntimeconfig.cache
+D:\Software\Coding\epay-coding-test\denomination-routine\DenominationPayout\obj\Debug\net8.0\ref\DenominationPayout.dll

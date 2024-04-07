@@ -1,0 +1,63 @@
+using System;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using System.Web;
+
+namespace MyApp
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            int[] amounts = { 30, 50, 60, 80, 140, 230, 370, 610, 980 };
+            int[] denominations = { 10, 50, 100 };
+
+            foreach (int amount in amounts)
+            {
+                Console.WriteLine($"For {amount} EUR, the possible combinations are:");
+                var combinations = CalculateCombinations(amount, denominations);
+                foreach (var combination in combinations)
+                {
+                    Console.WriteLine(string.Join(" + ", combination));
+                }
+                Console.WriteLine();
+            }
+        }
+
+        static List<List<int>> CalculateCombinations(int amount, int[] denominations)
+        {
+            var dp = new List<List<List<int>>>();
+            for (int i = 0; i <= amount; i++)
+            {
+                dp.Add(new List<List<int>>());
+                if (i == 0)
+                {
+                    dp[i].Add(new List<int>());
+                }
+            }
+
+            foreach (int denomination in denominations)
+            {
+                for (int i = denomination; i <= amount; i++)
+                {
+                    foreach (var combination in dp[i - denomination])
+                    {
+                        var newCombination = new List<int>(combination);
+                        newCombination.Add(denomination);
+                        dp[i].Add(newCombination);
+                    }
+                }
+            }
+
+            return dp[amount];
+        }
+
+
+
+
+
+    }
+}
+
+
